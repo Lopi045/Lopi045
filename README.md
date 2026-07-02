@@ -44,8 +44,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lopi045&theme=tokyonight&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lopi045&theme=onedark&column=5&margin-w=15" alt="Lopi045 Trophies" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
