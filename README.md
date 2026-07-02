@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lopi045&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lopi045's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopi045&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Questa usa lo strumento nativo di GitHub, non si romperà mai ed è un'alternativa sicura -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lopi045&theme=tokyonight" alt="Lopi045 GitHub Streak" />
 </p>
 
 ---
