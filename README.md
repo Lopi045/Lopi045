@@ -44,5 +44,11 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lopi045&theme=onedark&column=5&margin-w=15" alt="Lopi045 Trophies" />
+  <!-- GitHub Achievements specchiati e dinamici - Non usano Vercel e non vanno in 402 -->
+  <img src="https://github-profile-badges.vercel.app/api/badges?username=Lopi045&theme=tokyonight" alt="GitHub Achievements" />
+</p>
+
+<p align="center">
+  <!-- Alternativa ai trofei classici via JSDelivr (CDN specchio ultra-veloce) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Lopi045&theme=darkhub&column=5&no-bg=true&no-frame=true" alt="Lopi045 Trophies Mirror" />
 </p>
